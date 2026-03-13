@@ -1,3 +1,8 @@
+/* Body */
+body div {
+  background-color: #e9edee;
+  padding: 2em;
+}
 /* Header */
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -22,11 +27,6 @@ nav p {
   display: inline-block;
   cursor: pointer;
 }
-/* Body */
-body div {
-  background-color: #e9edee;
-  padding: 2em;
-}
 /* Main */
 .textc {
   text-align: center;
@@ -45,7 +45,6 @@ body div {
   margin: 2em 0em;
   background-size: cover;
 }
-
 h6 {
   color: #056d77;
   cursor: pointer;
@@ -72,7 +71,6 @@ h6 {
   size: 100%;
   background-color: white;
 }
-
 .images {
   display: inline-block;
   margin: 0em 2em;
@@ -91,6 +89,7 @@ h6 {
 a {
   color: white;
 }
+/* Footer */
 #bottomp {
   background-color: #364759;
   padding: 1em;
@@ -104,5 +103,3 @@ a {
 #bottomlogo {
   width: 10%;
 }
-
-/* Footer */

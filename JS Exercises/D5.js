@@ -131,7 +131,7 @@ while (i < numericArray.length) {
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
-console.log("Exercise 10")
+console.log("Exercise 10");
 const charactersArray = ["g", "n", "u", "z", "d"];
 const positionsChar = [];
 for (let i = 0; i < charactersArray.length; i++) {
@@ -201,4 +201,4 @@ for (let i = 0; i < charactersArray.length; i++) {
       break;
   }
 }
-console.log(positionsChar)
+console.log(positionsChar);
